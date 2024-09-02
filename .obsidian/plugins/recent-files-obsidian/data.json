@@ -1,20 +1,20 @@
 {
   "recentFiles": [
     {
-      "basename": "2024-09-02",
-      "path": "전자전기기술산업화 및 응용/2024-09-02.md"
-    },
-    {
-      "basename": "GPU",
-      "path": "공부/GPU/GPU.md"
-    },
-    {
-      "basename": "사용법 정리 link",
-      "path": "Obsidian 사용법/사용법 정리 link.md"
+      "basename": "Introduction",
+      "path": "공부/GPU/Introduction.md"
     },
     {
       "basename": "무제 파일",
       "path": "논문 리뷰/무제 파일.md"
+    },
+    {
+      "basename": "2024-09-02",
+      "path": "전자전기기술산업화 및 응용/2024-09-02.md"
+    },
+    {
+      "basename": "사용법 정리 link",
+      "path": "Obsidian 사용법/사용법 정리 link.md"
     }
   ],
   "omittedPaths": []

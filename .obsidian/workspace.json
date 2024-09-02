@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "defc2ffa8de0bc95",
+        "id": "fe5e2710773a25ec",
         "type": "tabs",
         "children": [
           {
-            "id": "a47bb3e769426545",
+            "id": "2a9063850924cc5e",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -128,13 +128,22 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "beef2c65225665d4",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -149,8 +158,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "a47bb3e769426545",
+  "active": "2a9063850924cc5e",
   "lastOpenFiles": [
+    "공부/GPU/Introduction.md",
+    "공부/GPU/GPU.md",
+    "논문 리뷰/무제 파일.md",
     "전자전기기술산업화 및 응용/2024-09-02.md",
     "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174404.png",
     "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174339.png",
@@ -160,10 +172,8 @@
     "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174112.png",
     "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174106.png",
     "전자전기기술산업화 및 응용/attachments",
-    "공부/GPU/GPU.md",
     "Obsidian 사용법/사용법 정리 link.md",
     "Obsidian 사용법/README.md",
-    "논문 리뷰/무제 파일.md",
     "공부/DRAM",
     "공부/GPU",
     "공부",
