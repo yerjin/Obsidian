@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "fe5e2710773a25ec",
+        "id": "2c7e859d9388d6ea",
         "type": "tabs",
         "children": [
           {
-            "id": "2a9063850924cc5e",
+            "id": "052631b9534fdfa9",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "공부/GPU/Introduction.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -89,6 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "공부/GPU/Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,6 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "공부/GPU/Introduction.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "공부/GPU/Introduction.md"
+              }
             }
           },
           {
@@ -158,9 +166,11 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "2a9063850924cc5e",
+  "active": "052631b9534fdfa9",
   "lastOpenFiles": [
     "공부/GPU/Introduction.md",
+    "공부/GPU/attachments/General-Purpose Graphics Processor Architecture.pdf",
+    "공부/GPU/attachments",
     "공부/GPU/GPU.md",
     "논문 리뷰/무제 파일.md",
     "전자전기기술산업화 및 응용/2024-09-02.md",
