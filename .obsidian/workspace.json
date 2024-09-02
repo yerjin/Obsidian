@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "공부/GPU/GPU.md",
+                "file": "전자전기기술산업화 및 응용/2024-09-02.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "공부/GPU/GPU.md",
+                "file": "전자전기기술산업화 및 응용/2024-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "공부/GPU/GPU.md",
+                "file": "전자전기기술산업화 및 응용/2024-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "공부/GPU/GPU.md"
+                "file": "전자전기기술산업화 및 응용/2024-09-02.md"
               }
             }
           }
@@ -159,9 +159,9 @@
   },
   "active": "5a54c4ed3a6b7fac",
   "lastOpenFiles": [
+    "공부/GPU/GPU.md",
     "Obsidian 사용법/사용법 정리 link.md",
     "Obsidian 사용법/README.md",
-    "공부/GPU/GPU.md",
     "논문 리뷰/무제 파일.md",
     "공부/DRAM",
     "공부/GPU",
