@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "aa14ecc89aa817b2",
+        "id": "1fc9ecc502da6a24",
         "type": "tabs",
         "children": [
           {
-            "id": "b7b63bf83e559d4e",
+            "id": "5a54c4ed3a6b7fac",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전자전기기술산업화 및 응용/2024-09-02.md",
+                "file": "공부/GPU/GPU.md",
                 "mode": "source",
                 "source": false
               }
@@ -64,6 +64,14 @@
               "type": "bookmarks",
               "state": {}
             }
+          },
+          {
+            "id": "7b3db30b1f3a0ba1",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ]
       }
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전자전기기술산업화 및 응용/2024-09-02.md",
+                "file": "공부/GPU/GPU.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전자전기기술산업화 및 응용/2024-09-02.md",
+                "file": "공부/GPU/GPU.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전자전기기술산업화 및 응용/2024-09-02.md"
+                "file": "공부/GPU/GPU.md"
               }
             }
           }
@@ -149,13 +157,21 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "b7b63bf83e559d4e",
+  "active": "5a54c4ed3a6b7fac",
   "lastOpenFiles": [
+    "Obsidian 사용법/사용법 정리 link.md",
+    "Obsidian 사용법/README.md",
+    "공부/GPU/GPU.md",
+    "논문 리뷰/무제 파일.md",
+    "공부/DRAM",
+    "공부/GPU",
+    "공부",
+    "무제 파일.md",
+    "전자전기기술산업화 및 응용/전자전기기술산업화 및 응용.md",
+    "Obsidian 사용법/Obsidian 사용법.md",
     "전자전기기술산업화 및 응용/2024-09-02.md",
     "논문 리뷰",
-    "사용법 정리 link.md",
     "전자전기기술산업화 및 응용",
-    "무제 파일.md",
     "2024-09-02.md",
     "Obsidian 사용법",
     "Untitled.canvas"
