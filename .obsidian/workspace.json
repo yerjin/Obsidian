@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1fc9ecc502da6a24",
+        "id": "defc2ffa8de0bc95",
         "type": "tabs",
         "children": [
           {
-            "id": "5a54c4ed3a6b7fac",
+            "id": "a47bb3e769426545",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "전자전기기술산업화 및 응용/2024-09-02.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전자전기기술산업화 및 응용/2024-09-02.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -110,7 +105,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전자전기기술산업화 및 응용/2024-09-02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,9 +126,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "전자전기기술산업화 및 응용/2024-09-02.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,8 +149,17 @@
       "homepage:Open homepage": false
     }
   },
-  "active": "5a54c4ed3a6b7fac",
+  "active": "a47bb3e769426545",
   "lastOpenFiles": [
+    "전자전기기술산업화 및 응용/2024-09-02.md",
+    "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174404.png",
+    "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174339.png",
+    "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174325.png",
+    "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174310.png",
+    "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174218.png",
+    "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174112.png",
+    "전자전기기술산업화 및 응용/attachments/Pasted image 20240902174106.png",
+    "전자전기기술산업화 및 응용/attachments",
     "공부/GPU/GPU.md",
     "Obsidian 사용법/사용법 정리 link.md",
     "Obsidian 사용법/README.md",
@@ -169,7 +170,6 @@
     "무제 파일.md",
     "전자전기기술산업화 및 응용/전자전기기술산업화 및 응용.md",
     "Obsidian 사용법/Obsidian 사용법.md",
-    "전자전기기술산업화 및 응용/2024-09-02.md",
     "논문 리뷰",
     "전자전기기술산업화 및 응용",
     "2024-09-02.md",
